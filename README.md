@@ -11,3 +11,8 @@ ectendomicorriza: Contiene imágenes de ectendomicorriza.
 ectomicorriza: Contiene imágenes de ectomicorriza.
 
 endomicorrizas: Contiene imágenes de endo icorriza.
+
+
+INTEGRANTES:
+Ariana Delgado Salazar
+Jean Piero Bermudes
