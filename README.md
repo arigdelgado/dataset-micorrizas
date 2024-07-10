@@ -14,5 +14,4 @@ endomicorrizas: Contiene imágenes de endo icorriza.
 
 
 INTEGRANTES:
-Ariana Delgado Salazar
-Jean Piero Bermudes
+Ariana Delgado Salazar y Jean Piero Bermudes
