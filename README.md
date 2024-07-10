@@ -10,7 +10,7 @@ ectendomicorriza: Contiene imágenes de ectendomicorriza.
 
 ectomicorriza: Contiene imágenes de ectomicorriza.
 
-endomicorrizas: Contiene imágenes de endo icorriza.
+endomicorrizas: Contiene imágenes de endomicorriza.
 
 
 INTEGRANTES:
